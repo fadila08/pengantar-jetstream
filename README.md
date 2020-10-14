@@ -7,13 +7,13 @@ Kita buat simple Login dan Register dengan Jetstream
 Silahkan baca dokuemntasi jetstream di https://jetstream.laravel.com/1.x/introduction.html
 
 Yang akan diimplementasikan adalah
+- Implementasi Model Blog
+- Implementas Migration Blog
+- Implementasi BlogController
 - Install Package Jetstream
 - Tambahkan livewire pada jetstream
 - Aktifkan ganti foto profil di config/jetstream
 - Non Aktifkan Tean di config/jetstream
-- Implementasi Model Blog
-- Implementasi Migration Blog
-- Implementasi BlogController.
 
 ## Kontribusi
 
