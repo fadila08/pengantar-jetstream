@@ -13,7 +13,7 @@ Yang akan diimplementasikan adalah
 - Non Aktifkan Tean di config/jetstream
 - Implementasi Model Blog
 - Implementasi Migration Blog
-- Implementasi BlogController
+- Implementasi BlogController.
 
 ## Kontribusi
 
