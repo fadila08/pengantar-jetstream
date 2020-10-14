@@ -11,6 +11,9 @@ Yang akan diimplementasikan adalah
 - Tambahkan livewire pada jetstream
 - Aktifkan ganti foto profil di config/jetstream
 - Non Aktifkan Tean di config/jetstream
+- Implementasi Model Blog
+- Implementasi Migration Blog
+- Implementasi BlogController
 
 ## Kontribusi
 
